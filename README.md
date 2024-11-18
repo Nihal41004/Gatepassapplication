@@ -40,6 +40,8 @@ This Java program is a simple Gate Pass Application that facilitates the issuanc
 ### Project Creator
 
 - Soumith Kumar Arja
-
+- Nihal Reddy
+- Shravan sakkinala
+  
 
 
